@@ -14,7 +14,7 @@ Step by step guide to becoming a modern Java developer
 - [ ] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
 - [ ] Git: File Status Lifecycle | Git Tutorials #6
 - [ ] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [x] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
 - [ ] Git: Skipping The Staging Area | Git Tutorials #9
 - [ ] Moving and Renaming Files In Git | Git Tutorials #10
 - [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
