@@ -29,11 +29,11 @@ Step by step guide to becoming a modern Java developer
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Getting Started
- - [ ] Programming Tools Setup
- - [ ] First Steps
- - [ ] IntelliJ Basics
- - [ ] Expressions, Statements & More
+ - [✅ ] Getting Started
+ - [ ✅] Programming Tools Setup
+ - [ ✅] First Steps
+ - [ ✅] IntelliJ Basics
+ - [ ✅] Expressions, Statements & More
  - [ ] Control Flow
  - [ ] OOP Part 1 - Inheritance
  - [ ] OOP Part 2 - Polymorphism
