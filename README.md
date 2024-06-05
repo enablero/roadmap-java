@@ -34,10 +34,10 @@ Step by step guide to becoming a modern Java developer
  - [ ✅] First Steps
  - [ ✅] IntelliJ Basics
  - [ ✅] Expressions, Statements & More
- - [ ] Control Flow
- - [ ] OOP Part 1 - Inheritance
- - [ ] OOP Part 2 - Polymorphism
- - [ ] Arrays
+ - [ ✅] Control Flow
+ - [✅ ] OOP Part 1 - Inheritance
+ - [ ✅] OOP Part 2 - Polymorphism
+ - [ ✅] Arrays
  - [ ] List, ArrayList, LinkedList, Iterator, Autoboxing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
