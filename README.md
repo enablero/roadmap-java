@@ -61,10 +61,17 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] Generics
  - [ ✅] Nested Classes and Types
  - [✅ ] Lambda Expressions, Functional Interfaces, and Method References
+<<<<<<< HEAD
  - [✅ ] Java Collections
  - [✅ ] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
  - [✅ ] Streams
  - [✅ ] Back to a Few Nuts and Bolts
+=======
+ - [ ✅] Java Collections
+ - [ ✅] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
+ - [ ✅] Streams
+ - [ ✅] Back to a Few Nuts and Bolts
+>>>>>>> develop
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
