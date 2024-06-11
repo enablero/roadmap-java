@@ -83,8 +83,8 @@ Step by step guide to becoming a modern Java developer
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Regular Expressions
- - [ ] Input & Output (I/O), Working with Files in Java
+ - [✅ ] Regular Expressions
+ - [ ✅] Input & Output (I/O), Working with Files in Java
  - [ ] Concurrency
  - [ ] Working with Databases
  - [ ] Java Networking with Channels, Reactive Programming, and Virtual Threads
