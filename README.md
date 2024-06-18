@@ -86,9 +86,9 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] Regular Expressions
  - [ ✅] Input & Output (I/O), Working with Files in Java
  - [ ✅] Input & Output (I/O), Working with Files in Java
- - [✅ ] Concurrency
+ - [ ✅] Concurrency
  - [ ✅] Working with Databases
- - [ ] Java Networking with Channels, Reactive Programming, and Virtual Threads
+ - [ ✅] Java Networking with Channels, Reactive Programming, and Virtual Threads
  - [ ] Debugging and Unit Testing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
