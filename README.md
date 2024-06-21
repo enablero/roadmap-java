@@ -46,8 +46,13 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] Day 01
  - [✅ ] Day 02
  - [ ✅] Day 03
+<<<<<<< HEAD
  - [✅ ] Day 04
  - [ ] Day 05
+=======
+ - [ ✅] Day 04
+ - [✅ ] Day 05
+>>>>>>> develop
  - [ ] Day 06
  - [ ] Day 07
  - [ ] Day 08
