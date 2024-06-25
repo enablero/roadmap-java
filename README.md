@@ -49,16 +49,10 @@ Step by step guide to becoming a modern Java developer
  - [ ✅] Day 04
  - [✅ ] Day 05
  - [✅ ] Day 06
-<<<<<<< HEAD
- - [ ✅] Day 07
- - [ ] Day 08
- - [ ] Day 09
-=======
  - [ ]✅ List, ArrayList, LinkedList, Iterator, Autoboxing
  - [✅ ] Day 07
  - [ ✅] Day 08
  - [✅ ] Day 09
->>>>>>> develop
 
 ## Basic Stage 2
 
