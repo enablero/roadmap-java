@@ -7,7 +7,7 @@ Step by step guide to becoming a modern Java developer
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
-- [&#x2611;] What is Git/GitHub & Why do we need it? | Git Tutorials #1
+- [ ] What is Git/GitHub & Why do we need it? | Git Tutorials #1
 - [ ] Installing Git + Initial Setup? | Git Tutorials #2
 - [ ] Git: Three Stage Architecture | Git Tutorials #3
 - [ ] Tracking Our first Git Project | Git Tutorials #4
@@ -28,7 +28,7 @@ Step by step guide to becoming a modern Java developer
 - [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
-
+&#x2611; ### Confident in almost all topics required small revisions required on input out part!!!!
  - [ ] Getting Started
  - [ ] Programming Tools Setup
  - [ ] First Steps
