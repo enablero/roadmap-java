@@ -6,7 +6,7 @@ Step by step guide to becoming a modern Java developer
 ## Basic Stage 1
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
-
+&#x2611; ### Github videos watched !!!
 - [ ] What is Git/GitHub & Why do we need it? | Git Tutorials #1
 - [ ] Installing Git + Initial Setup? | Git Tutorials #2
 - [ ] Git: Three Stage Architecture | Git Tutorials #3
