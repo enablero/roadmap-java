@@ -11,36 +11,36 @@ Step by step guide to becoming a modern Java developer
 - [x] Installing Git + Initial Setup? | Git Tutorials #2
 - [x] Git: Three Stage Architecture | Git Tutorials #3
 - [x] Tracking Our first Git Project | Git Tutorials #4
-- [ ] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
+- [x] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
 - [ ] Git: File Status Lifecycle | Git Tutorials #6
-- [ ] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
-- [ ] Git: Skipping The Staging Area | Git Tutorials #9
-- [ ] Moving and Renaming Files In Git | Git Tutorials #10
-- [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [ ] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [ ] Git Branching Workflow in Production | Git Tutorials #18
-- [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [x] .gitignore: Ignoring Files in Git | Git Tutorials #7
+- [x] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [x] Git: Skipping The Staging Area | Git Tutorials #9
+- [x] Moving and Renaming Files In Git | Git Tutorials #10
+- [x] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [x] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [x] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [x] Setting Alias In Git | Git Tutorials #14
+- [x] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [x] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [x] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [x] Git Branching Workflow in Production | Git Tutorials #18
+- [x] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Getting Started
- - [ ] Programming Tools Setup
- - [ ] First Steps
+ - [x] Getting Started
+ - [x] Programming Tools Setup
+ - [x] First Steps
  - [ ] IntelliJ Basics
- - [ ] Expressions, Statements & More
- - [ ] Control Flow
- - [ ] OOP Part 1 - Inheritance
- - [ ] OOP Part 2 - Polymorphism
- - [ ] Arrays
- - [ ] List, ArrayList, LinkedList, Iterator, Autoboxing
+ - [x] Expressions, Statements & More
+ - [x] Control Flow
+ - [x] OOP Part 1 - Inheritance
+ - [x] OOP Part 2 - Polymorphism
+ - [x] Arrays
+ - [x] List, ArrayList, LinkedList, Iterator, Autoboxing
 
-### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
+### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
  - [ ] Day 00
  - [ ] Day 01
@@ -57,16 +57,16 @@ Step by step guide to becoming a modern Java developer
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Abstraction in Java
+ - [x] Abstraction in Java
  - [ ] Generics
  - [ ] Nested Classes and Types
  - [ ] Lambda Expressions, Functional Interfaces, and Method References
  - [ ] Java Collections
- - [ ] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
+ - [x] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
  - [ ] Streams
  - [ ] Back to a Few Nuts and Bolts
 
-### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
+### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
  - [ ] Day 10
  - [ ] Day 11
@@ -90,7 +90,7 @@ Step by step guide to becoming a modern Java developer
  - [ ] Java Networking with Channels, Reactive Programming, and Virtual Threads
  - [ ] Debugging and Unit Testing
 
-### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
+### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
  - [ ] Day 20
  - [ ] Day 21
@@ -146,7 +146,7 @@ Step by step guide to becoming a modern Java developer
  - [ ] 10 - Using Hibernate with Spring
 
 ## Intermediate Stage 1
-   
+
 ### [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
  - [ ] 01 - Introduction
