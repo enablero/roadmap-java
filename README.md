@@ -58,8 +58,8 @@ Step by step guide to becoming a modern Java developer
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
  - [x] Abstraction in Java
- - [ ] Generics
- - [ ] Nested Classes and Types
+ - [x] Generics
+ - [x] Nested Classes and Types
  - [ ] Lambda Expressions, Functional Interfaces, and Method References
  - [ ] Java Collections
  - [x] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
@@ -85,7 +85,7 @@ Step by step guide to becoming a modern Java developer
 
  - [ ] Regular Expressions
  - [ ] Input & Output (I/O), Working with Files in Java
- - [ ] Concurrency
+ - [x] Concurrency
  - [ ] Working with Databases
  - [ ] Java Networking with Channels, Reactive Programming, and Virtual Threads
  - [ ] Debugging and Unit Testing
@@ -108,7 +108,7 @@ Step by step guide to becoming a modern Java developer
 ### [Spring Framework](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
 
  - [ ]  01 - Understanding Dependency Injection
- - [ ]  02 - Setting Up
+ - [x]  02 - Setting Up
  - [ ]  03 - Understanding Spring Bean Factory
  - [ ]  04 - Writing Code Using the Bean Factory
  - [ ]  05 - ApplicationContext and Property Initialization
