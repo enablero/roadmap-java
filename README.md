@@ -107,13 +107,13 @@ Step by step guide to becoming a modern Java developer
 
 ### [Spring Framework](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
 
- - [ ]  01 - Understanding Dependency Injection
+ - [x]  01 - Understanding Dependency Injection
  - [x]  02 - Setting Up
- - [ ]  03 - Understanding Spring Bean Factory
+ - [x]  03 - Understanding Spring Bean Factory
  - [ ]  04 - Writing Code Using the Bean Factory
  - [ ]  05 - ApplicationContext and Property Initialization
  - [ ]  06 - Using Constructor Injection
- - [ ]  07 - Injecting Objects
+ - [x]  07 - Injecting Objects
  - [ ]  08 - Inner Beans, Aliases and idref
  - [ ]  09 - Initializing Collections
  - [ ]  10 - Bean Autowiring
