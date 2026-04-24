@@ -110,19 +110,19 @@ Step by step guide to becoming a modern Java developer
  - [x]  01 - Understanding Dependency Injection
  - [x]  02 - Setting Up
  - [x]  03 - Understanding Spring Bean Factory
- - [ ]  04 - Writing Code Using the Bean Factory
- - [ ]  05 - ApplicationContext and Property Initialization
- - [ ]  06 - Using Constructor Injection
+ - [x]  04 - Writing Code Using the Bean Factory
+ - [x]  05 - ApplicationContext and Property Initialization
+ - [x]  06 - Using Constructor Injection
  - [x]  07 - Injecting Objects
- - [ ]  08 - Inner Beans, Aliases and idref
- - [ ]  09 - Initializing Collections
- - [ ]  10 - Bean Autowiring
- - [ ]  11 - Understanding Bean Scopes
- - [ ]  12 - Using ApplicationContextAware
- - [ ]  13 - Bean Definition Inheritance
- - [ ]  14 - Lifecycle Callbacks
- - [ ]  15 - Writing a BeanPostProcessor
- - [ ]  16 - Writing a BeanFactoryPostProcessor
+ - [x]  08 - Inner Beans, Aliases and idref
+ - [x]  09 - Initializing Collections
+ - [x]  10 - Bean Autowiring
+ - [x]  11 - Understanding Bean Scopes
+ - [x]  12 - Using ApplicationContextAware
+ - [x]  13 - Bean Definition Inheritance
+ - [x]  14 - Lifecycle Callbacks
+ - [x]  15 - Writing a BeanPostProcessor
+ - [x]  16 - Writing a BeanFactoryPostProcessor
  - [ ]  17 - Coding To Interfaces
  - [ ]  18 - Introduction to Annotations and the Required Annotation
  - [ ]  19 - The Autowired Annotation
