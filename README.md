@@ -4,7 +4,7 @@
 Step by step guide to becoming a modern Java developer
 
 ## Basic Stage 1
-
+ii
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
 - [x] What is Git/GitHub & Why do we need it? | Git Tutorials #1
@@ -124,11 +124,11 @@ Step by step guide to becoming a modern Java developer
  - [x]  15 - Writing a BeanPostProcessor
  - [x]  16 - Writing a BeanFactoryPostProcessor
  - [ ]  17 - Coding To Interfaces
- - [ ]  18 - Introduction to Annotations and the Required Annotation
- - [ ]  19 - The Autowired Annotation
+ - [x]  18 - Introduction to Annotations and the Required Annotation
+ - [x]  19 - The Autowired Annotation
  - [ ]  20 - Some JSR-250 Annotations
  - [ ]  21 - Component and Stereotype Annotations
- - [ ]  22 - Using MessageSource To Get Text From Property Files
+ - [x]  22 - Using MessageSource To Get Text From Property Files
  - [ ]  23 - Event Handling in Spring
  - [ ]  24 - Introduction to AOP
 
