@@ -4,43 +4,43 @@
 Step by step guide to becoming a modern Java developer
 
 ## Basic Stage 1
-
+ii
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
-- [ ] What is Git/GitHub & Why do we need it? | Git Tutorials #1
-- [ ] Installing Git + Initial Setup? | Git Tutorials #2
-- [ ] Git: Three Stage Architecture | Git Tutorials #3
-- [ ] Tracking Our first Git Project | Git Tutorials #4
-- [ ] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
+- [x] What is Git/GitHub & Why do we need it? | Git Tutorials #1
+- [x] Installing Git + Initial Setup? | Git Tutorials #2
+- [x] Git: Three Stage Architecture | Git Tutorials #3
+- [x] Tracking Our first Git Project | Git Tutorials #4
+- [x] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
 - [ ] Git: File Status Lifecycle | Git Tutorials #6
-- [ ] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
-- [ ] Git: Skipping The Staging Area | Git Tutorials #9
-- [ ] Moving and Renaming Files In Git | Git Tutorials #10
-- [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [ ] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [ ] Git Branching Workflow in Production | Git Tutorials #18
-- [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [x] .gitignore: Ignoring Files in Git | Git Tutorials #7
+- [x] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [x] Git: Skipping The Staging Area | Git Tutorials #9
+- [x] Moving and Renaming Files In Git | Git Tutorials #10
+- [x] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [x] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [x] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [x] Setting Alias In Git | Git Tutorials #14
+- [x] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [x] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [x] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [x] Git Branching Workflow in Production | Git Tutorials #18
+- [x] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Getting Started
- - [ ] Programming Tools Setup
- - [ ] First Steps
+ - [x] Getting Started
+ - [x] Programming Tools Setup
+ - [x] First Steps
  - [ ] IntelliJ Basics
- - [ ] Expressions, Statements & More
- - [ ] Control Flow
- - [ ] OOP Part 1 - Inheritance
- - [ ] OOP Part 2 - Polymorphism
- - [ ] Arrays
- - [ ] List, ArrayList, LinkedList, Iterator, Autoboxing
+ - [x] Expressions, Statements & More
+ - [x] Control Flow
+ - [x] OOP Part 1 - Inheritance
+ - [x] OOP Part 2 - Polymorphism
+ - [x] Arrays
+ - [x] List, ArrayList, LinkedList, Iterator, Autoboxing
 
-### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
+### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
  - [ ] Day 00
  - [ ] Day 01
@@ -57,16 +57,16 @@ Step by step guide to becoming a modern Java developer
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Abstraction in Java
- - [ ] Generics
- - [ ] Nested Classes and Types
+ - [x] Abstraction in Java
+ - [x] Generics
+ - [x] Nested Classes and Types
  - [ ] Lambda Expressions, Functional Interfaces, and Method References
  - [ ] Java Collections
- - [ ] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
+ - [x] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
  - [ ] Streams
  - [ ] Back to a Few Nuts and Bolts
 
-### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
+### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
  - [ ] Day 10
  - [ ] Day 11
@@ -85,12 +85,12 @@ Step by step guide to becoming a modern Java developer
 
  - [ ] Regular Expressions
  - [ ] Input & Output (I/O), Working with Files in Java
- - [ ] Concurrency
+ - [x] Concurrency
  - [ ] Working with Databases
  - [ ] Java Networking with Channels, Reactive Programming, and Virtual Threads
  - [ ] Debugging and Unit Testing
 
-### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
+### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
  - [ ] Day 20
  - [ ] Day 21
@@ -107,28 +107,28 @@ Step by step guide to becoming a modern Java developer
 
 ### [Spring Framework](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
 
- - [ ]  01 - Understanding Dependency Injection
- - [ ]  02 - Setting Up
- - [ ]  03 - Understanding Spring Bean Factory
- - [ ]  04 - Writing Code Using the Bean Factory
- - [ ]  05 - ApplicationContext and Property Initialization
- - [ ]  06 - Using Constructor Injection
- - [ ]  07 - Injecting Objects
- - [ ]  08 - Inner Beans, Aliases and idref
- - [ ]  09 - Initializing Collections
- - [ ]  10 - Bean Autowiring
- - [ ]  11 - Understanding Bean Scopes
- - [ ]  12 - Using ApplicationContextAware
- - [ ]  13 - Bean Definition Inheritance
- - [ ]  14 - Lifecycle Callbacks
- - [ ]  15 - Writing a BeanPostProcessor
- - [ ]  16 - Writing a BeanFactoryPostProcessor
+ - [x]  01 - Understanding Dependency Injection
+ - [x]  02 - Setting Up
+ - [x]  03 - Understanding Spring Bean Factory
+ - [x]  04 - Writing Code Using the Bean Factory
+ - [x]  05 - ApplicationContext and Property Initialization
+ - [x]  06 - Using Constructor Injection
+ - [x]  07 - Injecting Objects
+ - [x]  08 - Inner Beans, Aliases and idref
+ - [x]  09 - Initializing Collections
+ - [x]  10 - Bean Autowiring
+ - [x]  11 - Understanding Bean Scopes
+ - [x]  12 - Using ApplicationContextAware
+ - [x]  13 - Bean Definition Inheritance
+ - [x]  14 - Lifecycle Callbacks
+ - [x]  15 - Writing a BeanPostProcessor
+ - [x]  16 - Writing a BeanFactoryPostProcessor
  - [ ]  17 - Coding To Interfaces
- - [ ]  18 - Introduction to Annotations and the Required Annotation
- - [ ]  19 - The Autowired Annotation
+ - [x]  18 - Introduction to Annotations and the Required Annotation
+ - [x]  19 - The Autowired Annotation
  - [ ]  20 - Some JSR-250 Annotations
  - [ ]  21 - Component and Stereotype Annotations
- - [ ]  22 - Using MessageSource To Get Text From Property Files
+ - [x]  22 - Using MessageSource To Get Text From Property Files
  - [ ]  23 - Event Handling in Spring
  - [ ]  24 - Introduction to AOP
 
@@ -146,7 +146,7 @@ Step by step guide to becoming a modern Java developer
  - [ ] 10 - Using Hibernate with Spring
 
 ## Intermediate Stage 1
-   
+
 ### [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
  - [ ] 01 - Introduction
