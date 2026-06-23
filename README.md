@@ -36,7 +36,7 @@ Step by step guide to becoming a modern Java developer
  - [x] Expressions, Statements & More
  - [x] Control Flow
  - [x] OOP Part 1 - Inheritance
- - [v] OOP Part 2 - Polymorphism
+ - [x] OOP Part 2 - Polymorphism
  - [x] Arrays
  - [x] List, ArrayList, LinkedList, Iterator, Autoboxing
 
